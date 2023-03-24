@@ -1,0 +1,2 @@
+# edu_duty_rq
+A repository for an investigation into the relationship between education, age, and feeling that voting is a duty. Using R (4.2.2). Found generally a relationship between age and feeling that voting is a duty (apart from a choice) as well as education. It did not find a consistent effect across cohorts in terms of the interaction (i.e., no changes in the associated effects of college over time). Likely some endogeneity there (selection into college) but a fun little investigation nonetheless!
